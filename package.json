@@ -1,0 +1,19 @@
+{
+  "name": "nl_ta_api",
+  "version": "1.0.0",
+  "description": "Natural language api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kacha Mukabe",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/core": "^3.2.4",
+    "atob": "^2.1.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-blob": "0.0.2"
+  }
+}
